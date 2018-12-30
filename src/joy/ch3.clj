@@ -122,3 +122,5 @@
 (f-draw bit-or 200 200)
 (f-draw + 200 200)
 (f-draw * 200 200)
+
+(.dispose frame)
